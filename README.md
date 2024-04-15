@@ -1,5 +1,5 @@
 # dHPC-NAc
-Repository containing code for Barnstedt et al., Nature Communications (2024)
+Repository containing code for [Barnstedt et al., Nature Communications (2024)](https://www.nature.com/articles/s41467-024-47361-x)
 
 All notebooks relate to individual figures or parts of figures of the accompanying manuscript. Source data can be downloaded from  https://zenodo.org/doi/10.5281/zenodo.10698564.
 
